@@ -1,0 +1,17 @@
+C:\Users\s13809\Desktop\KinoProjektAPBD\KinoAPBD\bin\Debug\KinoAPBD.exe.config
+C:\Users\PC\Desktop\PJATK\APBD\KinoProjektAPBD\KinoAPBD\bin\Debug\KinoAPBD.exe.config
+C:\Users\PC\Desktop\PJATK\APBD\KinoProjektAPBD\KinoAPBD\bin\Debug\KinoAPBD.exe
+C:\Users\PC\Desktop\PJATK\APBD\KinoProjektAPBD\KinoAPBD\bin\Debug\KinoAPBD.pdb
+C:\Users\PC\Desktop\PJATK\APBD\KinoProjektAPBD\KinoAPBD\obj\Debug\KinoAPBD.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\PJATK\APBD\KinoProjektAPBD\KinoAPBD\obj\Debug\KinoAPBD.Form1.resources
+C:\Users\PC\Desktop\PJATK\APBD\KinoProjektAPBD\KinoAPBD\obj\Debug\KinoAPBD.Properties.Resources.resources
+C:\Users\PC\Desktop\PJATK\APBD\KinoProjektAPBD\KinoAPBD\obj\Debug\KinoAPBD.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\PJATK\APBD\KinoProjektAPBD\KinoAPBD\obj\Debug\KinoAPBD.exe
+C:\Users\PC\Desktop\PJATK\APBD\KinoProjektAPBD\KinoAPBD\obj\Debug\KinoAPBD.pdb
+C:\Users\PC\Desktop\PJATK\KinoProjektAPBD\KinoAPBD\bin\Debug\KinoAPBD.exe.config
+C:\Users\PC\Desktop\PJATK\KinoProjektAPBD\KinoAPBD\obj\Debug\KinoAPBD.exe
+C:\Users\PC\Desktop\PJATK\KinoProjektAPBD\KinoAPBD\obj\Debug\KinoAPBD.pdb
+C:\Users\PC\Desktop\PJATK\APBD\KinoProjektAPBD\KinoAPBD\obj\Debug\KinoAPBD.Form2.resources
+D:\PJATK\APBD\KinoProjektAPBD\KinoAPBD\bin\Debug\KinoAPBD.exe.config
+D:\PJATK\APBD\KinoProjektAPBD\KinoAPBD\obj\Debug\KinoAPBD.exe
+D:\PJATK\APBD\KinoProjektAPBD\KinoAPBD\obj\Debug\KinoAPBD.pdb
